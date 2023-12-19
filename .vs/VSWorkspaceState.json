@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.angular",
+    "\\src\\app",
+    "\\src\\app\\auth",
+    "\\src\\app\\auth\\login",
+    "\\src\\app\\auth\\register",
+    "\\src\\app\\components\\cart",
+    "\\src\\app\\components\\detail-menu",
+    "\\src\\app\\components\\resume-cart",
+    "\\src\\app\\components\\search"
+  ],
+  "SelectedNode": "\\README.md",
+  "PreviewInSolutionExplorer": false
+}
